@@ -1,0 +1,29 @@
+.pdf-table-header {
+	width: 100%;
+	margin-bottom: 10px;
+	margin-top: 20px;
+}
+
+.pdf-table-header-title {
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.pdf-table-items {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+.pdf-table-items-col {
+	padding: 8px 5px 8px 5px;
+	border: 1px solid #e7e7e8;
+	background: #f7f7f8;
+	font-weight: bold;
+	text-align: center;
+}
+
+.pdf-table-items-row {
+	padding: 8px 5px 8px 5px;
+	border: 1px solid #e7e7e8;
+}
